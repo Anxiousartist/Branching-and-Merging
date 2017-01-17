@@ -1,3 +1,3 @@
 UVU Basketball wins and Losses for the last 2 years
-                Wins        Losses
-UVU             12            18
+                Wins		Locations (state)     Losses 	Locations(State)
+UVU             12        UT, ID, TX, MO, IL   	18		UT, CO, KY, CA, AZ, NM, WA, NV	
